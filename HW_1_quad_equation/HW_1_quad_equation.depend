@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1428088042 source:c:\users\admin\documents\myprogramms\hw_1_quad_equation\main.cpp
+	<iostream>
+	<math.h>
+	<cstdlib>
+
+1428141567 source:c:\projects\hw_1_quad_equation\main.cpp
+	<iostream>
+	<math.h>
+	<cstdlib>
+
+1428141816 source:c:\git\hw_1_quad_equation\main.cpp
+	<iostream>
+	<math.h>
+	<cstdlib>
+
