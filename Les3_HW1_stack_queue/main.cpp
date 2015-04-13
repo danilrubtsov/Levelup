@@ -5,7 +5,7 @@
 #include <fstream>
 #include <iostream>
 #include <math.h>
-#include <assert.h>
+#include <assert.h>//библиотека для работы ф-и assert
 using namespace std;
 //при отладке - коды ошибок копируем (edit->mark) и гуглим
 //вариант отладки - отладцик
