@@ -1,8 +1,7 @@
 # depslib dependency file v1.0
-1428876319 source:c:\git\les3_hw1_stack_queue\main.cpp
+1428957625 source:c:\git\les3_hw1_stack_queue\main.cpp
 	<conio.h>
 	<string>
-	<map>
 	<fstream>
 	<iostream>
 	<math.h>
