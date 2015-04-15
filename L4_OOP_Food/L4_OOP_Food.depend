@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1429122928 source:c:\git\l4_oop_food\main.cpp
+	<iostream>
+	<cassert>
+	<climits>
+	<cstring>
+
